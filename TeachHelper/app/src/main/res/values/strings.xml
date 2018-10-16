@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TeachHelper</string>
+    <string name="add_record">Добавить запись</string>
+    <string name="delete_record">Удалить запись</string>
+    <string name="hello" />
+    <string name="add">add</string>
+    <string name="delete">delete</string>
+</resources>
